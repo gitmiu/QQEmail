@@ -853,9 +853,7 @@ header .h-r {
   margin-top: -4px;
 }
 .shoujian .maillist dd .lcheck .ih {
-  width: 10px;
-  margin-left: -3px;
-  background-position: -64px 2px;
+  display:none;
 }
 .shoujian .maillist dd .lsendby {
   width: 135px;
