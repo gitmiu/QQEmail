@@ -862,7 +862,7 @@ header .h-r {
   line-height: 22px;
 }
 .shoujian .maillist dd .ltheme {
-  width: 764px;
+  width: 760px;
   padding-left: 12px;
   overflow: hidden;
   white-space: nowrap;
@@ -881,8 +881,11 @@ header .h-r {
   color: #000;
 }
 .shoujian .maillist dd .ldate {
-  width: 100px;
+  width: 80px;
   padding-left: 12px;
+}
+.shoujian .maillist dd .lstar{
+  width:20px;
 }
 .shoujian .maillist dd .lstar i {
   display: inline-block;
